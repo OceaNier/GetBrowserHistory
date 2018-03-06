@@ -1,0 +1,13 @@
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\bin\Debug\GetBrowserHistory.exe.config
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\obj\Debug\GetBrowserHistory.Form1.resources
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\obj\Debug\GetBrowserHistory.Properties.Resources.resources
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\obj\Debug\GetBrowserHistory.csproj.GenerateResource.Cache
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\bin\Debug\GetBrowserHistory.exe
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\bin\Debug\GetBrowserHistory.pdb
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\obj\Debug\GetBrowserHistory.exe
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\obj\Debug\GetBrowserHistory.pdb
+c:\users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\obj\Debug\GetBrowserHistory.csprojResolveAssemblyReference.cache
+C:\Users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\bin\Debug\GetBrowserHistory.exe.manifest
+C:\Users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\bin\Debug\GetBrowserHistory.application
+C:\Users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\obj\Debug\GetBrowserHistory.exe.manifest
+C:\Users\oceanier\documents\visual studio 2015\Projects\GetBrowserHistory\GetBrowserHistory\obj\Debug\GetBrowserHistory.application
